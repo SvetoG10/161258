@@ -1,0 +1,5 @@
+commit 4d2816b9f0b1774d648ef5e2d29e81f48cb3a760 (HEAD -> logs, origin/master, master)
+Author: unknown <svetislav.gjorgjievski@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:26:12 2019 +0200
+
+    initial commit
